@@ -1,0 +1,6 @@
+C:\Users\Henri\Google Drive\C#\edX Course\edXCourseApplication\edXCourseApplication\bin\Debug\edXCourseApplication.exe.config
+C:\Users\Henri\Google Drive\C#\edX Course\edXCourseApplication\edXCourseApplication\obj\Debug\edXCourseApplication.csprojResolveAssemblyReference.cache
+C:\Users\Henri\Google Drive\C#\edX Course\edXCourseApplication\edXCourseApplication\bin\Debug\edXCourseApplication.exe
+C:\Users\Henri\Google Drive\C#\edX Course\edXCourseApplication\edXCourseApplication\bin\Debug\edXCourseApplication.pdb
+C:\Users\Henri\Google Drive\C#\edX Course\edXCourseApplication\edXCourseApplication\obj\Debug\edXCourseApplication.exe
+C:\Users\Henri\Google Drive\C#\edX Course\edXCourseApplication\edXCourseApplication\obj\Debug\edXCourseApplication.pdb
